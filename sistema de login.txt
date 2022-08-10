@@ -1,3 +1,5 @@
 digite aqui seu email:
 
 digite aqui sua senha:
+
+digite sua idade:
